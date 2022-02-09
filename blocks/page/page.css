@@ -1,0 +1,22 @@
+.page {
+  font-family: "Inter", Arial, sans-serif;
+  color: #fff;
+  background-color: #2a2c2f;
+  min-width: 320px;
+  min-height: 100vh;
+  margin: 0 auto;
+  text-rendering: optimizeLegibility;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .page {
+    max-width: 1024px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .page {
+    max-width: 1280px;
+    max-height: 6875px;
+  }
+}

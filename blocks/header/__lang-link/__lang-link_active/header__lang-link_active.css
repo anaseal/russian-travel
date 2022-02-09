@@ -1,0 +1,16 @@
+.header__lang-link_active {
+  border-bottom: #fff solid 1px;
+}
+
+@media screen and (min-width: 768px) {
+  .header__lang-link {
+    font-size: 24px;
+    line-height: 1.16;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .header__lang-link_active {
+    border-bottom: #fff solid 2px;
+  }
+}
