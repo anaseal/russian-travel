@@ -5,10 +5,10 @@
 ## Стек технологий:
 - HTML5;
 - CSS3:
-  [X] Flexbox;
-  [X] Media Queries
-  [X] Grid Layout;
-  [X] Adaptive UI;
+   Flexbox;
+   Media Queries
+   Grid Layout;
+   Adaptive UI;
 - Методология БЭМ;
 - Вёрстка по макету в Figma.
 - Файловая структура Nested;
@@ -16,4 +16,4 @@
 ## Макет проекта: 
 [figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile).
 
-## [ссылка на проект]()
+## [ссылка на проект](https://anaseal.github.io/russian-travel/)
